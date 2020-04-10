@@ -321,3 +321,9 @@ However, in reality, we need to localize <b>new contents (or pages)</b>, so in t
 
 ## 6. Questions?
 Feel free to open an issue or send an email to Kazuma Hashimoto: `k.hashimoto<AT>salesforce.com` (please replace `<AT>` with @)
+
+## 7. License
+
+* Any scripts: <a href="https://github.com/salesforce/localization-xml-mt/blob/master/LICENSE_MIT.txt">MIT</a>
+
+* Dataset: <a href="https://github.com/salesforce/localization-xml-mt/blob/master/LICENSE_CC-NC-4.txt">CC-NC-4</a>
