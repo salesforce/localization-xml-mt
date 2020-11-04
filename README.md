@@ -3,6 +3,20 @@
 Kazuma Hashimoto, Raffaella Buschiazzo, James Bradbury, Teresa Marshall, Richard Socher, and Caiming Xiong <br>
 <a href="https://www.aclweb.org/anthology/W19-5212/">WMT 2019</a>
 
+Table of contents
+* <a href="https://github.com/salesforce/localization-xml-mt#Updates">Updates</a>
+* <a href="https://github.com/salesforce/localization-xml-mt#1-overview">1. Overview</a>
+* <a href="https://github.com/salesforce/localization-xml-mt#2-getting-started">2. Getting Started</a>
+* <a href="https://github.com/salesforce/localization-xml-mt#3-leaderboard-test-set-results">3. Leaderboard (Test Set Results)</a>
+* <a href="https://github.com/salesforce/localization-xml-mt#4-paper">4. Paper</a>
+* <a href="https://github.com/salesforce/localization-xml-mt#5-notes">5. Notes</a>
+* <a href="https://github.com/salesforce/localization-xml-mt#6-questions">6. Questions?</a>
+* <a href="https://github.com/salesforce/localization-xml-mt#7-license">7. License</a>
+
+## Updates
+* <b>June 23rd, 2020</b></br>
+The first version of the dataset has been released for German, Finnish, French, Japanese, Dutch, Russian, Simplified Chinese.
+
 ## 1. Overview
 
 ### 1.1 Goal
