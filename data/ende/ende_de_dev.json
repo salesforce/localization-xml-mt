@@ -427,7 +427,7 @@
         "salesforce_localization_xml_mt:ende_dev_0000000423": "Salesforce ist für Android- und iOS-Geräte verfügbar, die die Mindestanforderungen für die Plattform erfüllen. Sie können Salesforce bei Google Play oder im App Store herunterladen und installieren.",
         "salesforce_localization_xml_mt:ende_dev_0000000424": "Wählen Sie die Rolle des Mitglieds im Haushalt aus.",
         "salesforce_localization_xml_mt:ende_dev_0000000425": "Die Bedingungen werden während der Laufzeit in der von Ihnen angegebenen Reihenfolge ausgewertet.",
-        "salesforce_localization_xml_mt:ende_dev_0000000426": "Wählen Sie den <ph>Status</ph> des <parmname>Ideenthemas</parmname> aus.",
+        "salesforce_localization_xml_mt:ende_dev_0000000426": "Wählen Sie den <parname>Status</parname> des <ph>Ideenthemas</ph> aus.",
         "salesforce_localization_xml_mt:ende_dev_0000000427": "Die Datenvorbereitung kann in Abhängigkeit von Ihrem Projekt einmal oder regelmäßig erfolgen. Eine Prognoseanalyse ist ein iterativer Prozess, der fortgesetzt werden kann, nachdem Ihre Lösung bereitgestellt wurde. Sobald neue Statistiken ermittelt werden, ist es eine gängige Praxis, zu experimentieren, indem Aspekte der Eingabedaten hinzugefügt oder geändert werden. Sie können die Analyse so planen, dass Ihrem Modell auf inkrementeller Basis fortlaufend neue Daten hinzugefügt werden. Es ist ebenfalls gängige Praxis, die Modellvariablen und -felder mit neuen Informationen oder unternehmensrelevanteren Fragen zu aktualisieren.",
         "salesforce_localization_xml_mt:ende_dev_0000000428": "Reduzierungsaufträge erstellen",
         "salesforce_localization_xml_mt:ende_dev_0000000429": "Einrichten und Verwalten Ihrer Organisation",
