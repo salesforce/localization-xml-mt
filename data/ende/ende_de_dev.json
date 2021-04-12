@@ -253,7 +253,7 @@
         "salesforce_localization_xml_mt:ende_dev_0000000249": "Aktivieren oder Deaktivieren des Prozesses",
         "salesforce_localization_xml_mt:ende_dev_0000000250": "Erledigen von Salesforce-Aktionen über benutzerdefinierte Aktionsmenüs",
         "salesforce_localization_xml_mt:ende_dev_0000000251": "Gesamtzahl der Themen, die in den letzten 30 Tagen Diskussionen in Gruppen oder Benutzerprofilen zugeordnet wurden.",
-        "salesforce_localization_xml_mt:ende_dev_0000000252": "Geben Sie im Feld <userinput>Schnellsuche</userinput> den Text <parmname>Profile</parmname> ein und wählen Sie dann <uicontrol>Profile</uicontrol> aus.",
+        "salesforce_localization_xml_mt:ende_dev_0000000252": "Geben Sie im Feld <parmname>Schnellsuche</parmname> den Text <userinput>Profile</userinput> ein und wählen Sie dann <uicontrol>Profile</uicontrol> aus.",
         "salesforce_localization_xml_mt:ende_dev_0000000253": "Hinzufügen eines Filters in einem Datenset-Rezept",
         "salesforce_localization_xml_mt:ende_dev_0000000254": "In Filtern, die einen Bereich darstellen, können Sie die folgenden Abkürzungen verwenden.",
         "salesforce_localization_xml_mt:ende_dev_0000000255": "Gemeinschaftliche Prognosen – Quoten",
